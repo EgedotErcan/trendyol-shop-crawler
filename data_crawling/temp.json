@@ -1,0 +1,27 @@
+[
+    {
+        "name":"ege",
+        "job":"data-scientist",
+        "age":18
+    },
+    {
+        "name":"ertugrul",
+        "job":"product manager",
+        "age":19
+    },
+    {
+        "name":"alex",
+        "job":"software developer",
+        "age":28
+    },
+    {
+        "name":"lena",
+        "job":"Big Data Architect",
+        "age":32
+    },
+    {
+        "name":"tunjar",
+        "job":"CEO",
+        "age":34
+    }
+]

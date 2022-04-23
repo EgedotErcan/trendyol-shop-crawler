@@ -1,0 +1,4 @@
+{
+    "notebook.cellToolbarVisibility": "click",
+    "jupyter.jupyterServerType": "local"
+}
